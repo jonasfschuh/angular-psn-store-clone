@@ -60,8 +60,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Screenshots ##
 
-![](https://github.com/jonasfschuh/angular-service-pokemon/blob/main/docs/screenshot.gif?raw=true&sanitize=true)
-
+![](https://github.com/jonasfschuh/angular-psn-store-clone/blob/main/src/assets/screenshot.gif?raw=true&sanitize=true)
 
 
 Made with :heart: by <a href="https://github.com/jonasfschuh" target="_blank">Jonas Fernando Schuh</a>
